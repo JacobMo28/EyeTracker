@@ -1,0 +1,1584 @@
+{
+  "screen_w": 1280,
+  "screen_h": 800,
+  "points": [
+    {
+      "time": 0.002,
+      "x": 653,
+      "y": 332,
+      "image_id": null
+    },
+    {
+      "time": 0.081,
+      "x": 654,
+      "y": 331,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.114,
+      "x": 654,
+      "y": 332,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.146,
+      "x": 656,
+      "y": 333,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.191,
+      "x": 652,
+      "y": 335,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.23,
+      "x": 653,
+      "y": 329,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.258,
+      "x": 651,
+      "y": 331,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.303,
+      "x": 652,
+      "y": 334,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.324,
+      "x": 652,
+      "y": 329,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.369,
+      "x": 646,
+      "y": 320,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.403,
+      "x": 641,
+      "y": 318,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.437,
+      "x": 641,
+      "y": 313,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.497,
+      "x": 644,
+      "y": 314,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.542,
+      "x": 650,
+      "y": 315,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.579,
+      "x": 653,
+      "y": 312,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.638,
+      "x": 652,
+      "y": 300,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.674,
+      "x": 650,
+      "y": 288,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.692,
+      "x": 649,
+      "y": 277,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.73,
+      "x": 642,
+      "y": 269,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.771,
+      "x": 643,
+      "y": 265,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.798,
+      "x": 644,
+      "y": 262,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.834,
+      "x": 650,
+      "y": 254,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.887,
+      "x": 650,
+      "y": 252,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.938,
+      "x": 654,
+      "y": 244,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 0.971,
+      "x": 653,
+      "y": 233,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.002,
+      "x": 656,
+      "y": 226,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.025,
+      "x": 646,
+      "y": 226,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.071,
+      "x": 638,
+      "y": 229,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.108,
+      "x": 630,
+      "y": 248,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.171,
+      "x": 628,
+      "y": 264,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.223,
+      "x": 616,
+      "y": 267,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.242,
+      "x": 611,
+      "y": 260,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.3,
+      "x": 606,
+      "y": 261,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.335,
+      "x": 603,
+      "y": 255,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.368,
+      "x": 600,
+      "y": 249,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.406,
+      "x": 603,
+      "y": 248,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.427,
+      "x": 598,
+      "y": 244,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.459,
+      "x": 595,
+      "y": 242,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.504,
+      "x": 596,
+      "y": 244,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.571,
+      "x": 593,
+      "y": 242,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.614,
+      "x": 609,
+      "y": 249,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.652,
+      "x": 612,
+      "y": 248,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.697,
+      "x": 623,
+      "y": 250,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.73,
+      "x": 630,
+      "y": 249,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.763,
+      "x": 632,
+      "y": 251,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.788,
+      "x": 638,
+      "y": 250,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.841,
+      "x": 635,
+      "y": 250,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.875,
+      "x": 633,
+      "y": 255,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.907,
+      "x": 633,
+      "y": 259,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.943,
+      "x": 640,
+      "y": 258,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 1.97,
+      "x": 635,
+      "y": 256,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.01,
+      "x": 639,
+      "y": 256,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.035,
+      "x": 637,
+      "y": 253,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.082,
+      "x": 642,
+      "y": 255,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.104,
+      "x": 643,
+      "y": 259,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.148,
+      "x": 642,
+      "y": 267,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.185,
+      "x": 643,
+      "y": 265,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.208,
+      "x": 643,
+      "y": 285,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.254,
+      "x": 637,
+      "y": 300,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.288,
+      "x": 633,
+      "y": 306,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.309,
+      "x": 631,
+      "y": 310,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.351,
+      "x": 629,
+      "y": 321,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.396,
+      "x": 628,
+      "y": 331,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.418,
+      "x": 629,
+      "y": 340,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.459,
+      "x": 625,
+      "y": 350,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.492,
+      "x": 615,
+      "y": 347,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.531,
+      "x": 602,
+      "y": 349,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.581,
+      "x": 601,
+      "y": 344,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.611,
+      "x": 602,
+      "y": 345,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.645,
+      "x": 600,
+      "y": 343,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.686,
+      "x": 604,
+      "y": 342,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.717,
+      "x": 608,
+      "y": 344,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.751,
+      "x": 606,
+      "y": 359,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.791,
+      "x": 604,
+      "y": 362,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.837,
+      "x": 603,
+      "y": 373,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.885,
+      "x": 625,
+      "y": 262,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 2.928,
+      "x": 642,
+      "y": 204,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.026,
+      "x": 651,
+      "y": 173,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.078,
+      "x": 665,
+      "y": 158,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.113,
+      "x": 667,
+      "y": 149,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.139,
+      "x": 676,
+      "y": 150,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.175,
+      "x": 681,
+      "y": 150,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.216,
+      "x": 683,
+      "y": 149,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.255,
+      "x": 687,
+      "y": 145,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.304,
+      "x": 688,
+      "y": 138,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.353,
+      "x": 689,
+      "y": 137,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.388,
+      "x": 699,
+      "y": 133,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.409,
+      "x": 701,
+      "y": 133,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.454,
+      "x": 702,
+      "y": 133,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.487,
+      "x": 701,
+      "y": 133,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.518,
+      "x": 704,
+      "y": 138,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.553,
+      "x": 713,
+      "y": 142,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.603,
+      "x": 715,
+      "y": 145,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.637,
+      "x": 712,
+      "y": 154,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.666,
+      "x": 712,
+      "y": 152,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.709,
+      "x": 711,
+      "y": 146,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.745,
+      "x": 714,
+      "y": 150,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.788,
+      "x": 722,
+      "y": 179,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.825,
+      "x": 722,
+      "y": 208,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.857,
+      "x": 725,
+      "y": 218,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.88,
+      "x": 722,
+      "y": 239,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.919,
+      "x": 720,
+      "y": 247,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 3.951,
+      "x": 725,
+      "y": 254,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.001,
+      "x": 716,
+      "y": 265,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.033,
+      "x": 718,
+      "y": 268,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.096,
+      "x": 726,
+      "y": 278,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.126,
+      "x": 728,
+      "y": 291,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.161,
+      "x": 730,
+      "y": 292,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.191,
+      "x": 732,
+      "y": 285,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.224,
+      "x": 732,
+      "y": 295,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.259,
+      "x": 733,
+      "y": 298,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.298,
+      "x": 738,
+      "y": 307,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.344,
+      "x": 737,
+      "y": 310,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.395,
+      "x": 740,
+      "y": 311,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.415,
+      "x": 744,
+      "y": 316,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.461,
+      "x": 743,
+      "y": 317,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.531,
+      "x": 739,
+      "y": 312,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.573,
+      "x": 739,
+      "y": 315,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.604,
+      "x": 746,
+      "y": 320,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.627,
+      "x": 757,
+      "y": 328,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.67,
+      "x": 766,
+      "y": 338,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.7,
+      "x": 772,
+      "y": 342,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.738,
+      "x": 769,
+      "y": 348,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.767,
+      "x": 759,
+      "y": 351,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.803,
+      "x": 750,
+      "y": 346,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.837,
+      "x": 755,
+      "y": 361,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.897,
+      "x": 766,
+      "y": 381,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.932,
+      "x": 773,
+      "y": 386,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 4.969,
+      "x": 781,
+      "y": 393,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.012,
+      "x": 787,
+      "y": 403,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.052,
+      "x": 786,
+      "y": 401,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.074,
+      "x": 780,
+      "y": 403,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.107,
+      "x": 783,
+      "y": 406,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.14,
+      "x": 784,
+      "y": 413,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.175,
+      "x": 781,
+      "y": 415,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.213,
+      "x": 782,
+      "y": 420,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.253,
+      "x": 782,
+      "y": 424,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.29,
+      "x": 784,
+      "y": 422,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.317,
+      "x": 784,
+      "y": 426,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.352,
+      "x": 782,
+      "y": 443,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.39,
+      "x": 776,
+      "y": 460,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.421,
+      "x": 778,
+      "y": 471,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.457,
+      "x": 786,
+      "y": 482,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.487,
+      "x": 784,
+      "y": 488,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.525,
+      "x": 788,
+      "y": 495,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.575,
+      "x": 790,
+      "y": 493,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.619,
+      "x": 787,
+      "y": 501,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.652,
+      "x": 786,
+      "y": 496,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.698,
+      "x": 778,
+      "y": 492,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.731,
+      "x": 775,
+      "y": 487,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.767,
+      "x": 778,
+      "y": 486,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.796,
+      "x": 765,
+      "y": 497,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.834,
+      "x": 701,
+      "y": 473,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.87,
+      "x": 663,
+      "y": 462,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.942,
+      "x": 644,
+      "y": 455,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 5.987,
+      "x": 639,
+      "y": 440,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.038,
+      "x": 642,
+      "y": 433,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.074,
+      "x": 651,
+      "y": 423,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.107,
+      "x": 654,
+      "y": 418,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.17,
+      "x": 661,
+      "y": 410,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.194,
+      "x": 664,
+      "y": 402,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.237,
+      "x": 667,
+      "y": 401,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.262,
+      "x": 667,
+      "y": 400,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.301,
+      "x": 670,
+      "y": 407,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.336,
+      "x": 673,
+      "y": 408,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.367,
+      "x": 668,
+      "y": 407,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.402,
+      "x": 669,
+      "y": 412,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.429,
+      "x": 663,
+      "y": 415,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.482,
+      "x": 665,
+      "y": 411,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.513,
+      "x": 666,
+      "y": 402,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.554,
+      "x": 666,
+      "y": 399,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.58,
+      "x": 660,
+      "y": 397,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.622,
+      "x": 661,
+      "y": 402,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.655,
+      "x": 658,
+      "y": 403,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.684,
+      "x": 656,
+      "y": 406,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.709,
+      "x": 654,
+      "y": 404,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.75,
+      "x": 657,
+      "y": 411,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.785,
+      "x": 661,
+      "y": 422,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.809,
+      "x": 662,
+      "y": 409,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.853,
+      "x": 662,
+      "y": 406,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.883,
+      "x": 664,
+      "y": 399,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.914,
+      "x": 666,
+      "y": 399,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.952,
+      "x": 660,
+      "y": 393,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 6.99,
+      "x": 661,
+      "y": 389,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.024,
+      "x": 661,
+      "y": 383,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.059,
+      "x": 659,
+      "y": 382,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.091,
+      "x": 661,
+      "y": 394,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.125,
+      "x": 663,
+      "y": 398,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.163,
+      "x": 670,
+      "y": 393,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.198,
+      "x": 673,
+      "y": 397,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.232,
+      "x": 675,
+      "y": 399,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.263,
+      "x": 674,
+      "y": 407,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.303,
+      "x": 677,
+      "y": 408,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.376,
+      "x": 679,
+      "y": 407,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.422,
+      "x": 678,
+      "y": 409,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.443,
+      "x": 685,
+      "y": 412,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.489,
+      "x": 692,
+      "y": 401,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.525,
+      "x": 694,
+      "y": 400,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.555,
+      "x": 696,
+      "y": 403,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.586,
+      "x": 695,
+      "y": 410,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.623,
+      "x": 697,
+      "y": 398,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.656,
+      "x": 695,
+      "y": 403,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.683,
+      "x": 698,
+      "y": 398,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.714,
+      "x": 702,
+      "y": 408,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.76,
+      "x": 694,
+      "y": 405,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.807,
+      "x": 691,
+      "y": 410,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.829,
+      "x": 689,
+      "y": 413,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.876,
+      "x": 685,
+      "y": 412,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.896,
+      "x": 679,
+      "y": 409,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.938,
+      "x": 680,
+      "y": 406,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 7.965,
+      "x": 678,
+      "y": 409,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.008,
+      "x": 674,
+      "y": 418,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.035,
+      "x": 662,
+      "y": 447,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.074,
+      "x": 653,
+      "y": 484,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.113,
+      "x": 654,
+      "y": 513,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.133,
+      "x": 655,
+      "y": 534,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.181,
+      "x": 652,
+      "y": 551,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.213,
+      "x": 649,
+      "y": 573,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.247,
+      "x": 643,
+      "y": 581,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.289,
+      "x": 641,
+      "y": 588,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.321,
+      "x": 639,
+      "y": 596,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.355,
+      "x": 636,
+      "y": 591,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.393,
+      "x": 630,
+      "y": 603,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.451,
+      "x": 635,
+      "y": 595,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.49,
+      "x": 634,
+      "y": 594,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.543,
+      "x": 632,
+      "y": 617,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.572,
+      "x": 625,
+      "y": 627,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.602,
+      "x": 624,
+      "y": 632,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.63,
+      "x": 626,
+      "y": 642,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.672,
+      "x": 620,
+      "y": 636,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.706,
+      "x": 611,
+      "y": 629,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.743,
+      "x": 620,
+      "y": 601,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.823,
+      "x": 641,
+      "y": 521,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.851,
+      "x": 646,
+      "y": 479,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.89,
+      "x": 619,
+      "y": 437,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.926,
+      "x": 602,
+      "y": 414,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 8.971,
+      "x": 590,
+      "y": 399,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.007,
+      "x": 585,
+      "y": 385,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.028,
+      "x": 583,
+      "y": 380,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.065,
+      "x": 590,
+      "y": 367,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.12,
+      "x": 586,
+      "y": 358,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.144,
+      "x": 591,
+      "y": 346,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.187,
+      "x": 596,
+      "y": 346,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.225,
+      "x": 595,
+      "y": 332,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.265,
+      "x": 598,
+      "y": 328,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.305,
+      "x": 598,
+      "y": 332,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.328,
+      "x": 642,
+      "y": 270,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.374,
+      "x": 681,
+      "y": 218,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.401,
+      "x": 701,
+      "y": 194,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.429,
+      "x": 709,
+      "y": 173,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.475,
+      "x": 716,
+      "y": 164,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.514,
+      "x": 718,
+      "y": 166,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.554,
+      "x": 723,
+      "y": 171,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.613,
+      "x": 725,
+      "y": 170,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.649,
+      "x": 723,
+      "y": 176,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.696,
+      "x": 723,
+      "y": 183,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.745,
+      "x": 723,
+      "y": 182,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.777,
+      "x": 723,
+      "y": 166,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.818,
+      "x": 726,
+      "y": 159,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.875,
+      "x": 713,
+      "y": 176,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.913,
+      "x": 702,
+      "y": 266,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.949,
+      "x": 695,
+      "y": 326,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    },
+    {
+      "time": 9.985,
+      "x": 696,
+      "y": 365,
+      "image_id": "912px-1665_Girl_with_a_Pearl_Earring.jpg"
+    }
+  ]
+}
