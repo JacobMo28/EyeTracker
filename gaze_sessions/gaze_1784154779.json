@@ -1,0 +1,1794 @@
+{
+  "screen_w": 1280,
+  "screen_h": 800,
+  "points": [
+    {
+      "time": 0.0,
+      "x": 291,
+      "y": 259,
+      "image_id": null
+    },
+    {
+      "time": 0.063,
+      "x": 300,
+      "y": 261,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.097,
+      "x": 275,
+      "y": 277,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.136,
+      "x": 275,
+      "y": 274,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.167,
+      "x": 252,
+      "y": 273,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.194,
+      "x": 277,
+      "y": 310,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.221,
+      "x": 283,
+      "y": 302,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.253,
+      "x": 266,
+      "y": 303,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.285,
+      "x": 264,
+      "y": 313,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.319,
+      "x": 293,
+      "y": 336,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.352,
+      "x": 291,
+      "y": 346,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.382,
+      "x": 280,
+      "y": 334,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.43,
+      "x": 270,
+      "y": 322,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.464,
+      "x": 257,
+      "y": 314,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.493,
+      "x": 263,
+      "y": 314,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.533,
+      "x": 276,
+      "y": 325,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.563,
+      "x": 276,
+      "y": 334,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.595,
+      "x": 283,
+      "y": 343,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.613,
+      "x": 285,
+      "y": 350,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.646,
+      "x": 286,
+      "y": 351,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.679,
+      "x": 302,
+      "y": 351,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.713,
+      "x": 297,
+      "y": 360,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.746,
+      "x": 271,
+      "y": 347,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.796,
+      "x": 269,
+      "y": 330,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.83,
+      "x": 288,
+      "y": 335,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.913,
+      "x": 274,
+      "y": 333,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.946,
+      "x": 284,
+      "y": 337,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 0.972,
+      "x": 277,
+      "y": 323,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.004,
+      "x": 295,
+      "y": 336,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.03,
+      "x": 276,
+      "y": 331,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.047,
+      "x": 278,
+      "y": 321,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.08,
+      "x": 282,
+      "y": 326,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.113,
+      "x": 271,
+      "y": 310,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.13,
+      "x": 151,
+      "y": 281,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.163,
+      "x": 89,
+      "y": 278,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.196,
+      "x": 44,
+      "y": 255,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.23,
+      "x": 21,
+      "y": 256,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.263,
+      "x": 5,
+      "y": 257,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.297,
+      "x": 0,
+      "y": 255,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.332,
+      "x": 0,
+      "y": 256,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.371,
+      "x": 0,
+      "y": 261,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.402,
+      "x": 10,
+      "y": 259,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.422,
+      "x": 85,
+      "y": 283,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.454,
+      "x": 148,
+      "y": 323,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.502,
+      "x": 160,
+      "y": 336,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.534,
+      "x": 168,
+      "y": 346,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.567,
+      "x": 189,
+      "y": 368,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.596,
+      "x": 187,
+      "y": 375,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.63,
+      "x": 198,
+      "y": 379,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.664,
+      "x": 194,
+      "y": 356,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.696,
+      "x": 204,
+      "y": 365,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.728,
+      "x": 200,
+      "y": 364,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.757,
+      "x": 198,
+      "y": 368,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.79,
+      "x": 202,
+      "y": 340,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.821,
+      "x": 219,
+      "y": 343,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.87,
+      "x": 227,
+      "y": 347,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.901,
+      "x": 207,
+      "y": 345,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.935,
+      "x": 216,
+      "y": 362,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.97,
+      "x": 215,
+      "y": 360,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 1.997,
+      "x": 221,
+      "y": 349,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.03,
+      "x": 211,
+      "y": 347,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.062,
+      "x": 97,
+      "y": 324,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.094,
+      "x": 39,
+      "y": 327,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.128,
+      "x": 0,
+      "y": 325,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.208,
+      "x": 0,
+      "y": 346,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.232,
+      "x": 0,
+      "y": 333,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.266,
+      "x": 0,
+      "y": 314,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.3,
+      "x": 0,
+      "y": 297,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.334,
+      "x": 0,
+      "y": 283,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.36,
+      "x": 0,
+      "y": 271,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.388,
+      "x": 0,
+      "y": 246,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.422,
+      "x": 0,
+      "y": 232,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.448,
+      "x": 0,
+      "y": 218,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.481,
+      "x": 0,
+      "y": 185,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.509,
+      "x": 0,
+      "y": 192,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.529,
+      "x": 0,
+      "y": 198,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.557,
+      "x": 0,
+      "y": 224,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.605,
+      "x": 0,
+      "y": 275,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.637,
+      "x": 54,
+      "y": 348,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.669,
+      "x": 116,
+      "y": 393,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.702,
+      "x": 131,
+      "y": 405,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.734,
+      "x": 123,
+      "y": 392,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.765,
+      "x": 129,
+      "y": 384,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.798,
+      "x": 165,
+      "y": 396,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.829,
+      "x": 219,
+      "y": 432,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.862,
+      "x": 249,
+      "y": 433,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.896,
+      "x": 253,
+      "y": 432,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.943,
+      "x": 257,
+      "y": 437,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 2.979,
+      "x": 261,
+      "y": 455,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.005,
+      "x": 274,
+      "y": 447,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.037,
+      "x": 254,
+      "y": 434,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.07,
+      "x": 245,
+      "y": 404,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.104,
+      "x": 237,
+      "y": 369,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.133,
+      "x": 229,
+      "y": 351,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.166,
+      "x": 256,
+      "y": 366,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.197,
+      "x": 277,
+      "y": 392,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.23,
+      "x": 278,
+      "y": 435,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.262,
+      "x": 271,
+      "y": 499,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.311,
+      "x": 208,
+      "y": 524,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.343,
+      "x": 189,
+      "y": 527,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.38,
+      "x": 171,
+      "y": 509,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.406,
+      "x": 149,
+      "y": 482,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.437,
+      "x": 142,
+      "y": 462,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.519,
+      "x": 140,
+      "y": 427,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.548,
+      "x": 145,
+      "y": 418,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.571,
+      "x": 147,
+      "y": 370,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.596,
+      "x": 165,
+      "y": 350,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.63,
+      "x": 160,
+      "y": 334,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.661,
+      "x": 154,
+      "y": 303,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.694,
+      "x": 151,
+      "y": 282,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.724,
+      "x": 155,
+      "y": 264,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.756,
+      "x": 156,
+      "y": 235,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.791,
+      "x": 139,
+      "y": 222,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.831,
+      "x": 136,
+      "y": 211,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.866,
+      "x": 137,
+      "y": 197,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.887,
+      "x": 156,
+      "y": 225,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.916,
+      "x": 142,
+      "y": 206,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.946,
+      "x": 159,
+      "y": 201,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.972,
+      "x": 155,
+      "y": 196,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 3.997,
+      "x": 161,
+      "y": 210,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.046,
+      "x": 160,
+      "y": 215,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.08,
+      "x": 189,
+      "y": 240,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.11,
+      "x": 197,
+      "y": 260,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.141,
+      "x": 199,
+      "y": 259,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.174,
+      "x": 196,
+      "y": 267,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.208,
+      "x": 187,
+      "y": 255,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.237,
+      "x": 202,
+      "y": 241,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.269,
+      "x": 203,
+      "y": 224,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.301,
+      "x": 213,
+      "y": 225,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.335,
+      "x": 233,
+      "y": 219,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.366,
+      "x": 168,
+      "y": 223,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.404,
+      "x": 131,
+      "y": 231,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.446,
+      "x": 74,
+      "y": 228,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.48,
+      "x": 39,
+      "y": 223,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.509,
+      "x": 15,
+      "y": 221,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.541,
+      "x": 0,
+      "y": 224,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.579,
+      "x": 12,
+      "y": 239,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.605,
+      "x": 113,
+      "y": 314,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.638,
+      "x": 198,
+      "y": 351,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.669,
+      "x": 271,
+      "y": 402,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.701,
+      "x": 292,
+      "y": 418,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.798,
+      "x": 282,
+      "y": 402,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.832,
+      "x": 280,
+      "y": 403,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.869,
+      "x": 270,
+      "y": 423,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.901,
+      "x": 276,
+      "y": 421,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.927,
+      "x": 292,
+      "y": 429,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.957,
+      "x": 323,
+      "y": 445,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 4.988,
+      "x": 401,
+      "y": 448,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.022,
+      "x": 440,
+      "y": 447,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.057,
+      "x": 473,
+      "y": 449,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.083,
+      "x": 469,
+      "y": 449,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.115,
+      "x": 471,
+      "y": 448,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.148,
+      "x": 489,
+      "y": 446,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.18,
+      "x": 491,
+      "y": 455,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.2,
+      "x": 479,
+      "y": 452,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.228,
+      "x": 604,
+      "y": 447,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.258,
+      "x": 684,
+      "y": 432,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.28,
+      "x": 768,
+      "y": 405,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.313,
+      "x": 811,
+      "y": 406,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.354,
+      "x": 819,
+      "y": 398,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.38,
+      "x": 827,
+      "y": 393,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.405,
+      "x": 832,
+      "y": 388,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.439,
+      "x": 831,
+      "y": 387,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.485,
+      "x": 830,
+      "y": 386,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.511,
+      "x": 837,
+      "y": 389,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.545,
+      "x": 849,
+      "y": 399,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.572,
+      "x": 841,
+      "y": 388,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.604,
+      "x": 828,
+      "y": 387,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.645,
+      "x": 807,
+      "y": 387,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.681,
+      "x": 820,
+      "y": 393,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.711,
+      "x": 796,
+      "y": 386,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.745,
+      "x": 804,
+      "y": 392,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.773,
+      "x": 785,
+      "y": 395,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.805,
+      "x": 772,
+      "y": 399,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.854,
+      "x": 782,
+      "y": 408,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.881,
+      "x": 792,
+      "y": 411,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.906,
+      "x": 795,
+      "y": 413,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.941,
+      "x": 788,
+      "y": 407,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 5.981,
+      "x": 806,
+      "y": 404,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.011,
+      "x": 796,
+      "y": 407,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.093,
+      "x": 553,
+      "y": 347,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.124,
+      "x": 401,
+      "y": 303,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.155,
+      "x": 350,
+      "y": 301,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.189,
+      "x": 288,
+      "y": 286,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.216,
+      "x": 250,
+      "y": 262,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.248,
+      "x": 228,
+      "y": 245,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.287,
+      "x": 230,
+      "y": 247,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.307,
+      "x": 215,
+      "y": 239,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.342,
+      "x": 191,
+      "y": 240,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.368,
+      "x": 174,
+      "y": 241,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.397,
+      "x": 180,
+      "y": 234,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.43,
+      "x": 165,
+      "y": 231,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.46,
+      "x": 118,
+      "y": 231,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.493,
+      "x": 0,
+      "y": 209,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.523,
+      "x": 0,
+      "y": 197,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.557,
+      "x": 0,
+      "y": 193,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.591,
+      "x": 0,
+      "y": 196,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.617,
+      "x": 0,
+      "y": 196,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.643,
+      "x": 0,
+      "y": 182,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.668,
+      "x": 0,
+      "y": 200,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.7,
+      "x": 0,
+      "y": 200,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.733,
+      "x": 0,
+      "y": 208,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.765,
+      "x": 0,
+      "y": 197,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.794,
+      "x": 0,
+      "y": 219,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.827,
+      "x": 0,
+      "y": 214,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.881,
+      "x": 0,
+      "y": 203,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.926,
+      "x": 0,
+      "y": 197,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.951,
+      "x": 0,
+      "y": 195,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 6.989,
+      "x": 0,
+      "y": 197,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.011,
+      "x": 0,
+      "y": 188,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.037,
+      "x": 0,
+      "y": 207,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.068,
+      "x": 0,
+      "y": 214,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.101,
+      "x": 0,
+      "y": 229,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.133,
+      "x": 0,
+      "y": 238,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.162,
+      "x": 0,
+      "y": 249,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.19,
+      "x": 0,
+      "y": 266,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.246,
+      "x": 41,
+      "y": 269,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.293,
+      "x": 45,
+      "y": 277,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.373,
+      "x": 57,
+      "y": 275,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.394,
+      "x": 61,
+      "y": 264,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.421,
+      "x": 76,
+      "y": 256,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.455,
+      "x": 69,
+      "y": 261,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.481,
+      "x": 51,
+      "y": 293,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.513,
+      "x": 46,
+      "y": 325,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.548,
+      "x": 29,
+      "y": 332,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.573,
+      "x": 31,
+      "y": 347,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.608,
+      "x": 34,
+      "y": 340,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.644,
+      "x": 54,
+      "y": 352,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.668,
+      "x": 35,
+      "y": 353,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.697,
+      "x": 33,
+      "y": 359,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.721,
+      "x": 20,
+      "y": 357,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.755,
+      "x": 8,
+      "y": 346,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.782,
+      "x": 0,
+      "y": 336,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.815,
+      "x": 35,
+      "y": 345,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.841,
+      "x": 81,
+      "y": 355,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.875,
+      "x": 101,
+      "y": 351,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.901,
+      "x": 76,
+      "y": 349,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.934,
+      "x": 71,
+      "y": 351,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.961,
+      "x": 67,
+      "y": 362,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 7.998,
+      "x": 79,
+      "y": 377,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.029,
+      "x": 100,
+      "y": 379,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.061,
+      "x": 98,
+      "y": 384,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.094,
+      "x": 115,
+      "y": 380,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.132,
+      "x": 102,
+      "y": 371,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.157,
+      "x": 96,
+      "y": 390,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.19,
+      "x": 85,
+      "y": 406,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.225,
+      "x": 89,
+      "y": 420,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.253,
+      "x": 72,
+      "y": 421,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.285,
+      "x": 73,
+      "y": 427,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.318,
+      "x": 82,
+      "y": 425,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.373,
+      "x": 83,
+      "y": 422,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.4,
+      "x": 86,
+      "y": 432,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.43,
+      "x": 82,
+      "y": 436,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.462,
+      "x": 88,
+      "y": 437,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.495,
+      "x": 124,
+      "y": 402,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.526,
+      "x": 135,
+      "y": 378,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.56,
+      "x": 128,
+      "y": 377,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.64,
+      "x": 118,
+      "y": 374,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.669,
+      "x": 114,
+      "y": 364,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.697,
+      "x": 103,
+      "y": 364,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.732,
+      "x": 86,
+      "y": 350,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.758,
+      "x": 78,
+      "y": 341,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.793,
+      "x": 88,
+      "y": 316,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.827,
+      "x": 84,
+      "y": 310,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.862,
+      "x": 102,
+      "y": 302,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.896,
+      "x": 116,
+      "y": 304,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.92,
+      "x": 120,
+      "y": 303,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.955,
+      "x": 112,
+      "y": 301,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 8.989,
+      "x": 104,
+      "y": 304,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.023,
+      "x": 78,
+      "y": 298,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.049,
+      "x": 78,
+      "y": 316,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.085,
+      "x": 86,
+      "y": 327,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.117,
+      "x": 92,
+      "y": 338,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.153,
+      "x": 96,
+      "y": 340,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.182,
+      "x": 101,
+      "y": 332,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.211,
+      "x": 104,
+      "y": 337,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.242,
+      "x": 117,
+      "y": 326,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.264,
+      "x": 149,
+      "y": 338,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.296,
+      "x": 189,
+      "y": 338,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.325,
+      "x": 214,
+      "y": 347,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.358,
+      "x": 235,
+      "y": 329,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.389,
+      "x": 257,
+      "y": 323,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.422,
+      "x": 283,
+      "y": 336,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.47,
+      "x": 299,
+      "y": 326,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.502,
+      "x": 323,
+      "y": 312,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.536,
+      "x": 347,
+      "y": 299,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.57,
+      "x": 340,
+      "y": 289,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.598,
+      "x": 326,
+      "y": 275,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.633,
+      "x": 314,
+      "y": 277,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.666,
+      "x": 315,
+      "y": 274,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.698,
+      "x": 337,
+      "y": 275,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.726,
+      "x": 372,
+      "y": 266,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.76,
+      "x": 369,
+      "y": 252,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.805,
+      "x": 361,
+      "y": 238,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.838,
+      "x": 331,
+      "y": 232,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.872,
+      "x": 325,
+      "y": 221,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.95,
+      "x": 310,
+      "y": 227,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    },
+    {
+      "time": 9.978,
+      "x": 309,
+      "y": 230,
+      "image_id": "4-064-seattle-art-masterpiece-hokusai_gxlra6.jpg"
+    }
+  ]
+}

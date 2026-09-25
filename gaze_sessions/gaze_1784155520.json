@@ -1,0 +1,726 @@
+{
+  "screen_w": 1280,
+  "screen_h": 800,
+  "points": [
+    {
+      "time": 0.011,
+      "x": 542,
+      "y": 350,
+      "image_id": null
+    },
+    {
+      "time": 0.125,
+      "x": 541,
+      "y": 360,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 0.207,
+      "x": 558,
+      "y": 347,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 0.285,
+      "x": 549,
+      "y": 331,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 0.369,
+      "x": 541,
+      "y": 321,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 0.451,
+      "x": 542,
+      "y": 345,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 0.527,
+      "x": 554,
+      "y": 358,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 0.602,
+      "x": 546,
+      "y": 363,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 0.685,
+      "x": 549,
+      "y": 370,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 0.768,
+      "x": 609,
+      "y": 355,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 0.854,
+      "x": 677,
+      "y": 321,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 0.935,
+      "x": 744,
+      "y": 296,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 1.018,
+      "x": 810,
+      "y": 264,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 1.104,
+      "x": 842,
+      "y": 215,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 1.252,
+      "x": 871,
+      "y": 215,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 1.343,
+      "x": 884,
+      "y": 189,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 1.416,
+      "x": 904,
+      "y": 168,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 1.501,
+      "x": 927,
+      "y": 155,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 1.58,
+      "x": 927,
+      "y": 156,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 1.675,
+      "x": 929,
+      "y": 155,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 1.776,
+      "x": 926,
+      "y": 221,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 1.903,
+      "x": 904,
+      "y": 294,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 2.011,
+      "x": 908,
+      "y": 280,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 2.115,
+      "x": 918,
+      "y": 244,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 2.223,
+      "x": 908,
+      "y": 241,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 2.324,
+      "x": 911,
+      "y": 220,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 2.434,
+      "x": 923,
+      "y": 198,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 2.52,
+      "x": 792,
+      "y": 192,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 2.616,
+      "x": 641,
+      "y": 179,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 2.712,
+      "x": 552,
+      "y": 168,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 2.799,
+      "x": 457,
+      "y": 147,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 2.885,
+      "x": 409,
+      "y": 140,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 2.965,
+      "x": 376,
+      "y": 162,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 3.043,
+      "x": 361,
+      "y": 170,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 3.12,
+      "x": 352,
+      "y": 141,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 3.191,
+      "x": 354,
+      "y": 117,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 3.279,
+      "x": 377,
+      "y": 119,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 3.348,
+      "x": 393,
+      "y": 125,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 3.425,
+      "x": 393,
+      "y": 134,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 3.505,
+      "x": 393,
+      "y": 122,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 3.583,
+      "x": 400,
+      "y": 134,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 3.666,
+      "x": 415,
+      "y": 115,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 3.744,
+      "x": 438,
+      "y": 174,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 3.823,
+      "x": 456,
+      "y": 211,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 3.903,
+      "x": 454,
+      "y": 238,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 3.995,
+      "x": 446,
+      "y": 261,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 4.067,
+      "x": 434,
+      "y": 268,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 4.143,
+      "x": 433,
+      "y": 266,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 4.224,
+      "x": 421,
+      "y": 287,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 4.317,
+      "x": 415,
+      "y": 284,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 4.407,
+      "x": 411,
+      "y": 281,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 4.492,
+      "x": 411,
+      "y": 284,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 4.569,
+      "x": 415,
+      "y": 287,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 4.72,
+      "x": 413,
+      "y": 280,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 4.79,
+      "x": 422,
+      "y": 258,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 4.881,
+      "x": 429,
+      "y": 252,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 4.959,
+      "x": 431,
+      "y": 247,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 5.029,
+      "x": 432,
+      "y": 267,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 5.106,
+      "x": 430,
+      "y": 290,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 5.184,
+      "x": 432,
+      "y": 305,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 5.271,
+      "x": 462,
+      "y": 309,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 5.343,
+      "x": 465,
+      "y": 348,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 5.413,
+      "x": 492,
+      "y": 336,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 5.488,
+      "x": 483,
+      "y": 374,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 5.567,
+      "x": 473,
+      "y": 381,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 5.643,
+      "x": 459,
+      "y": 409,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 5.711,
+      "x": 453,
+      "y": 418,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 5.791,
+      "x": 496,
+      "y": 449,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 5.866,
+      "x": 546,
+      "y": 460,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 5.943,
+      "x": 574,
+      "y": 468,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 6.011,
+      "x": 574,
+      "y": 468,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 6.095,
+      "x": 577,
+      "y": 444,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 6.164,
+      "x": 574,
+      "y": 424,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 6.247,
+      "x": 582,
+      "y": 406,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 6.317,
+      "x": 588,
+      "y": 410,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 6.399,
+      "x": 589,
+      "y": 440,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 6.48,
+      "x": 592,
+      "y": 458,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 6.549,
+      "x": 591,
+      "y": 461,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 6.624,
+      "x": 615,
+      "y": 445,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 6.704,
+      "x": 602,
+      "y": 443,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 6.779,
+      "x": 594,
+      "y": 461,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 6.866,
+      "x": 590,
+      "y": 454,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 6.96,
+      "x": 581,
+      "y": 481,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 7.044,
+      "x": 595,
+      "y": 439,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 7.133,
+      "x": 606,
+      "y": 425,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 7.202,
+      "x": 613,
+      "y": 400,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 7.277,
+      "x": 610,
+      "y": 387,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 7.37,
+      "x": 603,
+      "y": 364,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 7.459,
+      "x": 599,
+      "y": 340,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 7.544,
+      "x": 594,
+      "y": 357,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 7.612,
+      "x": 586,
+      "y": 361,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 7.756,
+      "x": 611,
+      "y": 364,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 7.844,
+      "x": 622,
+      "y": 392,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 7.918,
+      "x": 609,
+      "y": 407,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 8.0,
+      "x": 578,
+      "y": 409,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 8.071,
+      "x": 555,
+      "y": 402,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 8.147,
+      "x": 547,
+      "y": 393,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 8.223,
+      "x": 543,
+      "y": 394,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 8.304,
+      "x": 539,
+      "y": 400,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 8.378,
+      "x": 616,
+      "y": 388,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 8.464,
+      "x": 671,
+      "y": 394,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 8.545,
+      "x": 730,
+      "y": 385,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 8.615,
+      "x": 764,
+      "y": 392,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 8.701,
+      "x": 790,
+      "y": 378,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 8.768,
+      "x": 806,
+      "y": 376,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 8.849,
+      "x": 809,
+      "y": 376,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 8.919,
+      "x": 848,
+      "y": 219,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 9.007,
+      "x": 867,
+      "y": 157,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 9.081,
+      "x": 883,
+      "y": 139,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 9.157,
+      "x": 905,
+      "y": 116,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 9.243,
+      "x": 930,
+      "y": 112,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 9.312,
+      "x": 936,
+      "y": 112,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 9.388,
+      "x": 939,
+      "y": 82,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 9.47,
+      "x": 942,
+      "y": 58,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 9.536,
+      "x": 939,
+      "y": 75,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 9.616,
+      "x": 938,
+      "y": 16,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 9.691,
+      "x": 933,
+      "y": 0,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 9.776,
+      "x": 935,
+      "y": 9,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 9.849,
+      "x": 943,
+      "y": 14,
+      "image_id": "image.jpg"
+    },
+    {
+      "time": 9.927,
+      "x": 933,
+      "y": 42,
+      "image_id": "image.jpg"
+    }
+  ]
+}

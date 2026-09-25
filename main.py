@@ -58,6 +58,7 @@ COUNTDOWN_STEP = 1.0
 
 debug_mode = False
 splash_active = True
+instructions_active = False
 last_key_time = time.time()
 
 # Gaze cursor trail
@@ -241,16 +242,6 @@ calib_pitch_max =  0.3
 smoothed_x = None
 smoothed_y = None
 
-# Fix 2: Head-movement calibration pass
-# After the 9-point calibration the user stares at a fixed target while
-# slowly moving their head.  This gives the model yaw/pitch variance at a
-# known screen position so the head-pose terms are actually fit.
-HEAD_CALIB_TARGET_KEY  = "c"        # fixed gaze target during head movement
-HEAD_CALIB_FRAMES      = 120        # frames to collect (~4-5 s at 30 fps)
-head_calib_active      = False      # True while collecting
-head_calib_done        = False      # True after this phase completes
-head_calib_samples     = []         # raw gaze tuples collected this phase
-
 # Continuous correction mode
 correction_mode = False
 correction_raw_gaze = None
@@ -272,8 +263,8 @@ pending_gaze_samples = []       # frames accumulated so far for current point
 POS_TOLERANCE = 0.035           # allowed center drift, fraction of frame dimension
 SIZE_TOLERANCE = 0.12           # allowed box-size (i.e. distance from camera) drift, fraction
 
-YAW_TOLERANCE = 0.10      # radians (~5.7 degrees)
-PITCH_TOLERANCE = 0.10    # radians (~5.7 degrees)
+YAW_TOLERANCE = 0.16     # radians (~9.2 degrees)
+PITCH_TOLERANCE = 0.16   # radians (~9.2 degrees)
 
 ref_yaw = None
 ref_pitch = None
@@ -288,6 +279,10 @@ in_head_position = True         # this frame's status vs. the reference box
 head_pos_dx = 0.0               # this frame's horizontal drift (normalized, + = moved right)
 head_pos_dy = 0.0               # this frame's vertical drift (normalized, + = moved down)
 head_size_ratio = 1.0           # this frame's size ratio vs reference (>1 = closer to camera)
+
+# Backspace toggles this on/off, letting the presenter bypass the position
+# lock (red box) during a live demo without it actually blocking calibration.
+head_lock_override = False
 
 
 # ---------------- Helpers ----------------
@@ -450,6 +445,8 @@ class TextRenderer:
 def get_mode_name():
     if splash_active:
         return "Intro"
+    if instructions_active:
+        return "Before You Start"
     if session_countdown_active:
         return "Get Ready"
     if session_complete_active:
@@ -460,8 +457,6 @@ def get_mode_name():
         return "Correction"
     if idx < len(order):
         return "Calibration"
-    if not head_calib_done:
-        return "Head Calibration"
     return "Tracking"
 
 
@@ -648,6 +643,30 @@ def draw_splash(ui):
     ui.text_centered("Eye Tracking Demo", screen_h // 2 - 80, size=52)
     ui.text_centered("Gaze-based stimulus analysis", screen_h // 2 - 10, size=FONT_SIZE_BODY, fill=COLOR_TEXT_MUTED)
     ui.text_centered("Press any key to begin calibration", screen_h // 2 + 50, size=FONT_SIZE_BODY, fill=COLOR_TEXT_DIM)
+
+
+def draw_instructions(ui):
+    ui.text_centered("Before You Start", screen_h // 2 - 190, size=FONT_SIZE_TITLE)
+
+    lines = [
+        "In a moment you'll look at 9 dots and press C to lock in each one.",
+        "",
+        "The key thing: wherever your head is for that FIRST dot becomes",
+        "your \"home\" position for the rest of the session.",
+        "",
+        "Once it's set, a box appears around your face in the camera",
+        "preview below \u2014 green means you're still in place, red means",
+        "you've drifted and should move back before continuing.",
+        "",
+        "So find a comfortable position you can hold, then get started.",
+    ]
+    y = screen_h // 2 - 130
+    for line in lines:
+        if line:
+            ui.text_centered(line, y, size=FONT_SIZE_BODY, fill=COLOR_TEXT_MUTED)
+        y += BODY_LINE_SPACING
+
+    ui.text_centered("Press any key to begin calibration", y + 20, size=FONT_SIZE_BODY, fill=COLOR_TEXT_DIM)
 
 
 def draw_countdown(ui):
@@ -1198,27 +1217,6 @@ while True:
     if correction_mode and gaze is not None and eyes_ok:
         correction_gaze_samples.append(gaze)
 
-    # Fix 2: collect head-movement calibration frames
-    if head_calib_active and gaze is not None and eyes_ok:
-        head_calib_samples.append(gaze)
-
-    if head_calib_active and len(head_calib_samples) >= HEAD_CALIB_FRAMES:
-        # Enough frames collected — add one sample per frame at the center target
-        # so the model sees a wide spread of yaw/pitch values for a known position.
-        center_screen = target_pos(HEAD_CALIB_TARGET_KEY)
-        for g in head_calib_samples:
-            samples.append((g, center_screen))
-        refit_model()
-        head_calib_active = False
-        head_calib_done   = True
-        calibration_done  = True
-        smoothed_x = None
-        smoothed_y = None
-        print(
-            f"Head calibration complete. Added {len(head_calib_samples)} samples. "
-            f"Total samples: {len(samples)}"
-        )
-
     # Fullscreen canvas
     canvas = np.full((screen_h, screen_w, 3), COLOR_BG, dtype=np.uint8)
     cv2.rectangle(canvas, (0, 0), (screen_w, TOP_BAR_H), COLOR_BAR, -1)
@@ -1251,6 +1249,9 @@ while True:
             session_complete_active = False
 
     if session_complete_active:
+        apply_dim_overlay(canvas)
+
+    elif instructions_active:
         apply_dim_overlay(canvas)
 
     elif image_showing:
@@ -1310,22 +1311,6 @@ while True:
             )
             draw_calib_progress_grid(canvas, idx, pulse_t)
 
-    elif not head_calib_done:
-        apply_dim_overlay(canvas)
-        tx, ty = target_pos(HEAD_CALIB_TARGET_KEY)
-        draw_calib_target(canvas, HEAD_CALIB_TARGET_KEY, head_calib_active, 0, pulse_t, False)
-
-        if head_calib_active:
-            progress = len(head_calib_samples) / HEAD_CALIB_FRAMES
-            bar_w = 280
-            bar_x = tx - bar_w // 2
-            bar_y = ty + 48
-            draw_progress_bar(canvas, bar_x, bar_y, bar_w, 6, progress)
-            ui_title_centered = "Head Calibration"
-        else:
-            ui_title_centered = "9-Point Calibration Complete"
-            ui_chips = [("H", "Begin"), ("T", "Skip")]
-
     else:
         if not calibration_done:
             calibration_done = True
@@ -1376,7 +1361,6 @@ while True:
                 not image_showing
                 and not splash_active
                 and not session_countdown_active
-                and head_calib_done
                 and idx >= len(order)
                 and not correction_mode
             ):
@@ -1384,11 +1368,36 @@ while True:
 
     # apply_vignette(canvas)
 
+    if (
+        head_ref_bbox is not None
+        and not in_head_position
+        and not head_lock_override
+        and not splash_active
+        and not instructions_active
+        and not session_countdown_active
+    ):
+        cv2.rectangle(canvas, (0, 0), (screen_w - 1, screen_h - 1), COLOR_WARN_BGR, 6)
+
+    if head_lock_override:
+        ui_override_note = "Position lock overridden (Backspace)"
+    else:
+        ui_override_note = None
+
     ui = TextRenderer(canvas)
     draw_top_bar(ui)
 
+    if ui_override_note:
+        ui.text(
+            (16, TOP_BAR_H + 8),
+            ui_override_note,
+            size=FONT_SIZE_SMALL,
+            fill=COLOR_ACCENT_RGB,
+        )
+
     if splash_active:
         draw_splash(ui)
+    elif instructions_active:
+        draw_instructions(ui)
     elif session_countdown_active:
         if draw_countdown(ui):
             begin_image_session_after_countdown()
@@ -1437,35 +1446,61 @@ while True:
                     size=FONT_SIZE_SMALL,
                     fill=COLOR_WARN_RGB,
                 )
-            elif head_ref_bbox is not None and not in_head_position:
-                parts = []
-                if head_pos_dx > POS_TOLERANCE:
-                    parts.append("move left")
-                elif head_pos_dx < -POS_TOLERANCE:
-                    parts.append("move right")
-                if head_pos_dy > POS_TOLERANCE:
-                    parts.append("move up")
-                elif head_pos_dy < -POS_TOLERANCE:
-                    parts.append("move down")
-                if head_size_ratio > 1.0 + SIZE_TOLERANCE:
-                    parts.append("move back")
-                elif head_size_ratio < 1.0 - SIZE_TOLERANCE:
-                    parts.append("move closer")
-                if head_yaw_error > YAW_TOLERANCE:
-                    parts.append("look left")
-                elif head_yaw_error < -YAW_TOLERANCE:
-                    parts.append("look right")
-                if head_pitch_error > PITCH_TOLERANCE:
-                    parts.append("look down")
-                elif head_pitch_error < -PITCH_TOLERANCE:
-                    parts.append("look up")
-                msg = "Return to box: " + ", ".join(parts) if parts else "Return to the box"
+            elif head_ref_bbox is not None and in_head_position:
                 ui.text(
                     (camera_x, camera_y + visible_h + 8),
-                    msg,
+                    "In position \u2014 hold still",
                     size=FONT_SIZE_SMALL,
-                    fill=COLOR_WARN_RGB,
+                    fill=COLOR_TEXT_DIM,
                 )
+            elif head_ref_bbox is not None and not in_head_position:
+                pos_parts = []
+                if head_pos_dx > POS_TOLERANCE:
+                    pos_parts.append("move left")
+                elif head_pos_dx < -POS_TOLERANCE:
+                    pos_parts.append("move right")
+                if head_pos_dy > POS_TOLERANCE:
+                    pos_parts.append("move up")
+                elif head_pos_dy < -POS_TOLERANCE:
+                    pos_parts.append("move down")
+                if head_size_ratio > 1.0 + SIZE_TOLERANCE:
+                    pos_parts.append("move back")
+                elif head_size_ratio < 1.0 - SIZE_TOLERANCE:
+                    pos_parts.append("move closer")
+
+                rot_parts = []
+                if head_yaw_error > YAW_TOLERANCE:
+                    rot_parts.append("turn head left")
+                elif head_yaw_error < -YAW_TOLERANCE:
+                    rot_parts.append("turn head right")
+                if head_pitch_error > PITCH_TOLERANCE:
+                    rot_parts.append("tilt head down")
+                elif head_pitch_error < -PITCH_TOLERANCE:
+                    rot_parts.append("tilt head up")
+
+                msg_y = camera_y + visible_h + 8
+                if pos_parts:
+                    ui.text(
+                        (camera_x, msg_y),
+                        "Position: " + ", ".join(pos_parts),
+                        size=FONT_SIZE_SMALL,
+                        fill=COLOR_WARN_RGB,
+                    )
+                    msg_y += 24
+                if rot_parts:
+                    ui.text(
+                        (camera_x, msg_y),
+                        "Angle: " + ", ".join(rot_parts),
+                        size=FONT_SIZE_SMALL,
+                        fill=COLOR_ACCENT_RGB,
+                    )
+                if not pos_parts and not rot_parts:
+                    ui.text(
+                        (camera_x, msg_y),
+                        "Return to the box",
+                        size=FONT_SIZE_SMALL,
+                        fill=COLOR_WARN_RGB,
+                    )
 
     if debug_mode:
         if results.multi_face_landmarks and gaze is not None:
@@ -1503,14 +1538,6 @@ while True:
     if image_showing and image_progress is not None:
         draw_progress_bar(canvas, 0, screen_h - 4, screen_w, 4, image_progress)
 
-    if (
-        head_ref_bbox is not None
-        and not in_head_position
-        and not splash_active
-        and not session_countdown_active
-    ):
-        cv2.rectangle(canvas, (0, 0), (screen_w - 1, screen_h - 1), COLOR_WARN_BGR, 6)
-
     if recording:
         session_time = time.time() - record_start_time
 
@@ -1537,10 +1564,14 @@ while True:
 
     if splash_active and key != -1 and (key & 0xFF) != ord('q'):
         splash_active = False
+        instructions_active = True
+
+    elif instructions_active and key != -1 and (key & 0xFF) != ord('q'):
+        instructions_active = False
 
     # Initial 9-point calibration — C starts a collection window
     if (key & 0xFF) == ord('c') and gaze is not None and idx < len(order) and not correction_mode and not collecting:
-        if head_ref_bbox is not None and not in_head_position:
+        if head_ref_bbox is not None and not in_head_position and not head_lock_override:
             print("Move back into the highlighted box before collecting this point.")
         else:
             collecting = True
@@ -1673,32 +1704,11 @@ while True:
 
             print("Correction cancelled.")
 
-    # Fix 2: H starts the head-movement calibration pass
-    if (
-        (key & 0xFF) == ord('h')
-        and idx >= len(order)       # 9-point calibration must be finished
-        and not head_calib_done
-        and not head_calib_active
-        and not correction_mode
-        and gaze is not None
-    ):
-        head_calib_active  = True
-        head_calib_samples = []
-        print("Head calibration started. Stare at center and move your head slowly.")
-
-    # Fix 2: T skips the head-movement calibration pass
-    if (
-        (key & 0xFF) == ord('t')
-        and idx >= len(order)
-        and not head_calib_done
-        and not correction_mode
-    ):
-        head_calib_active = False
-        head_calib_done   = True
-        calibration_done  = True
-        smoothed_x = None
-        smoothed_y = None
-        print("Head calibration skipped.")
+    # Backspace toggles the head-position lock override, so a presenter can
+    # keep going in a live demo even if the red box isn't cooperating.
+    if (key & 0xFF) == 8:
+        head_lock_override = not head_lock_override
+        print(f"Head position lock override: {'ON' if head_lock_override else 'OFF'}")
 
     # Reset calibration
     if (key & 0xFF) == ord('r') and not correction_mode:
@@ -1723,9 +1733,6 @@ while True:
         correction_gaze_samples = []
         collecting            = False
         pending_gaze_samples  = []
-        head_calib_active     = False
-        head_calib_done       = False
-        head_calib_samples    = []
         head_ref_bbox         = None
         head_ref_size         = None
         pending_bbox_samples  = []
